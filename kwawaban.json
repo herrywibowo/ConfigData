@@ -1,1 +1,31 @@
 
+{
+   "fiil abjad alif": [
+      {
+         "kata": "أَبَى",
+         "arti": "enggan"
+      },
+      {
+         "kata": "أَخَّرَ",
+         "arti": "mengakhirkan"
+      },
+      {
+         "kata": "أَفَكَ",
+         "arti": "berdusta"
+      },
+      {
+         "kata": "أَكَلَ",
+         "arti": "makan"
+      }
+   ],
+   "fiil abjad dzal": [
+      {
+         "kata": "ذَهَبَ",
+         "arti": "pergi"
+      },
+      {
+         "kata": "ذَاقَ",
+         "arti": "merasakan"
+      }
+   ]
+}
