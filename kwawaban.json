@@ -1,4 +1,3 @@
-
 {
    "fiil abjad alif": [
       {
@@ -26,6 +25,24 @@
       {
          "kata": "ذَاقَ",
          "arti": "merasakan"
+      }
+   ],
+   "fiil abjad zain": [
+      {
+         "kata": "زَعَمَ",
+         "arti": "mendakwakan"
+      },
+      {
+         "kata": "زَادَ",
+         "arti": "bertambah"
+      },
+      {
+         "kata": "زَالَ",
+         "arti": "memisahkan"
+      },
+      {
+         "kata": "زَانَ",
+         "arti": "menghiasi"
       }
    ]
 }
