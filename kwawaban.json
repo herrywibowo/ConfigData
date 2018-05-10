@@ -44,5 +44,31 @@
          "kata": "زَانَ",
          "arti": "menghiasi"
       }
+   ],
+   "Isim 3 digit": [
+      {
+         "kata": "أَبُوْ ، أَبًا ، أَبِى ، آبَاءَ",
+         "arti": "bapak"
+      },
+      {
+         "kata": "أَجْرٌ ، أُجٌوْرٌ",
+         "arti": "pahala"
+      },
+      {
+         "kata": "أرْضٌ",
+         "arti": "bumi, tanah, negeri"
+      },
+      {
+         "kata": "إِلَهٌ ، آلِهَةٌ",
+         "arti": "Tuhan"
+      },
+      {
+         "kata": "أَمْرٌ ، اُمُورٌ",
+         "arti": "urusan, perkara"
+      },
+      {
+         "kata": "أَهْلٌ",
+         "arti": "ahli, keluarga"
+      }
    ]
 }
