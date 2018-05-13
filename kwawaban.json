@@ -1,5 +1,5 @@
 {
-   "fiil abjad alif": [
+   "fiil ا": [
       {
          "kata": "أَبَى",
          "arti": "enggan"
@@ -17,7 +17,7 @@
          "arti": "makan"
       }
    ],
-   "fiil abjad dzal": [
+   "fiil د": [
       {
          "kata": "ذَهَبَ",
          "arti": "pergi"
@@ -27,7 +27,7 @@
          "arti": "merasakan"
       }
    ],
-   "fiil abjad zain": [
+   "fiil ز": [
       {
          "kata": "زَعَمَ",
          "arti": "mendakwakan"
@@ -69,6 +69,884 @@
       {
          "kata": "أَهْلٌ",
          "arti": "ahli, keluarga"
+      },
+      {
+         "kata": "اَيَةٌ ، اَيَاتٌ",
+         "arti": "Ayat / tanda"
+      },
+      {
+         "kata": "بَعْضٌ",
+         "arti": "sebagian"
+      },
+      {
+         "kata": "مُبِينٌ",
+         "arti": "yang jelas"
+      },
+      {
+         "kata": "جَنَةٌ ، جَنَّاتٌ",
+         "arti": "syurga"
+      },
+      {
+         "kata": "حَقٌ ، حَقًا",
+         "arti": "kebenaran, dengan hak"
+      },
+      {
+         "kata": "خَيْرٌ ، حَيْرً ، حَيْرَاتٌ",
+         "arti": "kebaikan, lebih baik"
+      },
+      {
+         "kata": "رَبٌ ، أَرْبَابٌ ، أَرْبَابًا",
+         "arti": "Tuhan"
+      },
+      {
+         "kata": "رَحِيمٌ ، رَحِيْمًا",
+         "arti": "maha pengasih"
+      },
+      {
+         "kata": "رَسُوْلٌ ، رَسُوْلً ، رُسُلٌ ، رَسُلًا",
+         "arti": "rasul, utusan"
+      },
+      {
+         "kata": "سَبِيْلٌ",
+         "arti": "jalan"
+      },
+      {
+         "kata": "سَمَاءٌ",
+         "arti": "langit"
+      },
+      {
+         "kata": "سُيْءٌ",
+         "arti": "kejahatan, buruk"
+      },
+      {
+         "kata": "شَيْءٌ",
+         "arti": "sesuatu"
+      },
+      {
+         "kata": "عَبْدٌ",
+         "arti": "abdi, hamba(sahaya)"
+      },
+      {
+         "kata": "عَذَابٌ",
+         "arti": "adzab, siksaan"
+      },
+      {
+         "kata": "عَظِيْمٌ",
+         "arti": "maha besar"
+      },
+      {
+         "kata": "عَلِيْمٌ",
+         "arti": "maha mengetahui"
+      },
+      {
+         "kata": "قَلْبٌ",
+         "arti": "hati"
+      },
+      {
+         "kata": "كُلُّ",
+         "arti": "setiap,segala, semuanya"
+      },
+      {
+         "kata": "مِثْلٌ",
+         "arti": "seperti,perumpamaan"
+      },
+      {
+         "kata": "نَفْسٌ",
+         "arti": "jiwa,seseorang,diri"
+      },
+      {
+         "kata": "نَارٌ",
+         "arti": "neraka,api"
+      },
+      {
+         "kata": "نَاسُ",
+         "arti": "manusia"
+      }
+   ],
+   "isim ا": [
+      {
+         "kata": "أَبَدًا",
+         "arti": "selamanya"
+      },
+      {
+         "kata": "آثَارٌ",
+         "arti": "Bekas-bekas"
+      },
+      {
+         "kata": "إِثْمٌ",
+         "arti": "dosa"
+      },
+      {
+         "kata": "أَجَلٌ",
+         "arti": "waktu"
+      },
+      {
+         "kata": "أَحَدٌ",
+         "arti": "seorang"
+      },
+      {
+         "kata": "إِحْدَى",
+         "arti": "salah seorang"
+      },
+      {
+         "kata": "آخَرَ",
+         "arti": "yang lainnya"
+      },
+      {
+         "kata": "آخِرِيْنَ",
+         "arti": "Orang-orang yang kemudian"
+      },
+      {
+         "kata": "أَخٌ",
+         "arti": "saudara(laki-laki)"
+      },
+      {
+         "kata": "أُخْتٌ",
+         "arti": "saudara(pr)"
+      },
+      {
+         "kata": "أَُخُوْ",
+         "arti": "saudara"
+      },
+      {
+         "kata": "آذَانٌ",
+         "arti": "Telinga-telinga"
+      },
+      {
+         "kata": "أَلْفٌ",
+         "arti": "seribu"
+      },
+      {
+         "kata": "أَلَيْمٌ",
+         "arti": "pedih"
+      },
+      {
+         "kata": "آلَاءٌ",
+         "arti": "Nikmat-nikmat"
+      },
+      {
+         "kata": "أُمٌّ",
+         "arti": "ibu"
+      },
+      {
+         "kata": "أَمِيْنٌ",
+         "arti": "yang dipercaya"
+      },
+      {
+         "kata": "أُنْثَى",
+         "arti": "wanita"
+      },
+      {
+         "kata": "إِنْسَانٌ",
+         "arti": "manusia"
+      },
+      {
+         "kata": "آنَّى",
+         "arti": "bagaimana juga"
+      },
+      {
+         "kata": "أَوَّلَ",
+         "arti": "yang pertama"
+      },
+      {
+         "kata": "آلٌ",
+         "arti": "kaum,keluarga"
+      },
+      {
+         "kata": "أُولُوْا",
+         "arti": "Orang-orang yang mempunyai"
+      },
+      {
+         "kata": "مَأْوَى",
+         "arti": "tempat tinggal"
+      }
+   ],
+   "isim ب": [
+      {
+         "kata": "بَأْسٌ",
+         "arti": "kesempitan,peperangan"
+      },
+      {
+         "kata": "بَجْرٌ",
+         "arti": "lautan"
+      },
+      {
+         "kata": "بَرِيْئٌ",
+         "arti": "berlepas diri"
+      },
+      {
+         "kata": "بَرَّا",
+         "arti": "daratan"
+      },
+      {
+         "kata": "أَبْرَارٌ",
+         "arti": "kebaikan"
+      },
+      {
+         "kata": "مُبَارَكٌ",
+         "arti": "yang diberkahi"
+      },
+      {
+         "kata": "بَشَرٌ",
+         "arti": "seorang manusia"
+      },
+      {
+         "kata": "بُشْرَى",
+         "arti": "berita gembira"
+      },
+      {
+         "kata": "بَصِيْرٌ",
+         "arti": "maha melihat"
+      },
+      {
+         "kata": "بَصَرٌ",
+         "arti": "penglihatan"
+      },
+      {
+         "kata": "بَطْنٌ",
+         "arti": "perut"
+      },
+      {
+         "kata": "بَعِيْدٌ",
+         "arti": "yang jauh"
+      },
+      {
+         "kata": "بَغْتَةٌ",
+         "arti": "Tiba-tiba"
+      },
+      {
+         "kata": "بَغْيٌ",
+         "arti": "dengki"
+      },
+      {
+         "kata": "ابْتِغَاءٌ",
+         "arti": "pencarian"
+      },
+      {
+         "kata": "بَلَدٌ",
+         "arti": "negeri"
+      },
+      {
+         "kata": "بَلَاغٌ",
+         "arti": "penyampaian"
+      },
+      {
+         "kata": "بَلَى",
+         "arti": "ya demikian"
+      },
+      {
+         "kata": "أَبْنَاءٌ",
+         "arti": "putra"
+      },
+      {
+         "kata": "بَنِى",
+         "arti": "anak keturunan"
+      },
+      {
+         "kata": "بَنَاتٌ",
+         "arti": "anak-anak(pr)"
+      },
+      {
+         "kata": "بَابٌ",
+         "arti": "pintu"
+      },
+      {
+         "kata": "بَيْتٌ",
+         "arti": "rumah"
+      },
+      {
+         "kata": "بَيِنَةٌ",
+         "arti": "bukti yang nyata"
+      }
+   ],
+   "isim ت": [
+      {
+         "kata": "تُرَابٌ",
+         "arti": "tanah"
+      },
+      {
+         "kata": "تَوَّابٌ",
+         "arti": "maha penerima taubat"
+      }
+   ],
+   "isim ث": [
+      {
+         "kata": "ثَلَاثٌ",
+         "arti": "tiga"
+      },
+      {
+         "kata": "ثَمَرٌ",
+         "arti": "buah"
+      },
+      {
+         "kata": "ثَمَنٌ",
+         "arti": "harga"
+      },
+      {
+         "kata": "اِثْنَيْنِ",
+         "arti": "dua"
+      },
+      {
+         "kata": "ثَوَابٌ",
+         "arti": "pahala"
+      },
+      {
+         "kata": "مَثْوًى",
+         "arti": "tempat tinggal"
+      }
+   ],
+   "isim ج": [
+      {
+         "kata": "جَبَلٌ",
+         "arti": "gunung"
+      },
+      {
+         "kata": "مُجْرِمُوْنَ",
+         "arti": "Orang-orang berdosa"
+      },
+      {
+         "kata": "جَزَاءٌ",
+         "arti": "pembalasan"
+      },
+      {
+         "kata": "جَمِيْعٌ",
+         "arti": "semuanya"
+      },
+      {
+         "kata": "جُنَاحٌ",
+         "arti": "berdosa"
+      },
+      {
+         "kata": "جُنْدٌ",
+         "arti": "pasukan,tentara"
+      },
+      {
+         "kata": "مَجْنُوْنٌ",
+         "arti": "gila"
+      },
+      {
+         "kata": "جَهْرٌ",
+         "arti": "jelas,nyata"
+      }
+   ],
+   "isim ح": [
+      {
+         "kata": "حَجَرٌ",
+         "arti": "batu"
+      },
+      {
+         "kata": "حَدِيْثٌ",
+         "arti": "pembicaraan,berita"
+      },
+      {
+         "kata": "حُدُوْدٌ",
+         "arti": "hukum,pidana"
+      },
+      {
+         "kata": "حَرْثٌ",
+         "arti": "pakaian"
+      },
+      {
+         "kata": "حَرَجٌ",
+         "arti": "kesulitan"
+      },
+      {
+         "kata": "حِزْبٌ",
+         "arti": "pengikut,pasukan"
+      },
+      {
+         "kata": "حَسْبٌ",
+         "arti": "cukup"
+      },
+      {
+         "kata": "حِسَابٌ",
+         "arti": "perhitungan(hisab)"
+      },
+      {
+         "kata": "حُسْنٌ",
+         "arti": "kebaikan"
+      },
+      {
+         "kata": "حَسَنٌ",
+         "arti": "kebaikan"
+      },
+      {
+         "kata": "حُسْنٌ",
+         "arti": "kebaikan"
+      },
+      {
+         "kata": "حُسْنَى",
+         "arti": "lebih baik"
+      },
+      {
+         "kata": "أَحْسَنُ",
+         "arti": "cara yang baik"
+      },
+      {
+         "kata": "إِحْسَانٌ",
+         "arti": "Orang-orang yang baik"
+      },
+      {
+         "kata": "مُحْسِنُوْنَ",
+         "arti": "pemeliharaan,penjagaan"
+      },
+      {
+         "kata": "حَفِيْظٌ",
+         "arti": "lebih berhak"
+      },
+      {
+         "kata": "أَحَقُّ",
+         "arti": "maha bijaksana"
+      },
+      {
+         "kata": "حَكِيْمٌ",
+         "arti": "maha penyantun"
+      },
+      {
+         "kata": "حَمْدٌ",
+         "arti": "pujian"
+      },
+      {
+         "kata": "حَمِيْدٌ",
+         "arti": "maha terpuji"
+      },
+      {
+         "kata": "حَمِيْمٌ",
+         "arti": "yang mendidih,akrab"
+      },
+      {
+         "kata": "حَنِيْفًا",
+         "arti": "yang lurus"
+      },
+      {
+         "kata": "مُحِيْطٌ",
+         "arti": "meliputi"
+      },
+      {
+         "kata": "حَيٌ",
+         "arti": "kehidupan"
+      },
+      {
+         "kata": "حَيَاةٌ",
+         "arti": "kehidupan"
+      }
+   ],
+   "isim خ": [
+      {
+         "kata": "خَبِيْرٌ",
+         "arti": "maha mengetahui,maha memberitakan"
+      },
+      {
+         "kata": "خِزْيٌ",
+         "arti": "kehinaan,kenistaan"
+      },
+      {
+         "kata": "خَاسِرُوْنَ",
+         "arti": "Orang-orang yang merugi"
+      },
+      {
+         "kata": "خَالِدُوْنَ",
+         "arti": "Orang-orang yang kekal"
+      },
+      {
+         "kata": "خَلْقٌ",
+         "arti": "penciptaan"
+      },
+      {
+         "kata": "خَوْفٌ",
+         "arti": "ketakutan"
+      }
+   ],
+   "isim د": [
+      {
+         "kata": "دَابَّةٌ",
+         "arti": "hewan,binatang"
+      },
+      {
+         "kata": "دُبُرٌ",
+         "arti": "belakang"
+      },
+      {
+         "kata": "دَمٌ",
+         "arti": "darah"
+      },
+      {
+         "kata": "أَدْنَى",
+         "arti": "lebih dekat"
+      },
+      {
+         "kata": "دَارٌ",
+         "arti": "kampung,tempat"
+      },
+      {
+         "kata": "دِيْنٌ",
+         "arti": "agama"
+      }
+   ],
+   "isim ذ": [
+      {
+         "kata": "ذُرِّيَّةٌ",
+         "arti": "keturunan"
+      },
+      {
+         "kata": "ذِكْرٌ",
+         "arti": "peringatan"
+      },
+      {
+         "kata": "ذِكْرَ",
+         "arti": "peringatan"
+      },
+      {
+         "kata": "ذَكَرٌ",
+         "arti": "Laki-laki"
+      },
+      {
+         "kata": "ذَنْبٌ",
+         "arti": "dosa"
+      },
+      {
+         "kata": "ذُوذَاذَى",
+         "arti": "mempunyai"
+      },
+      {
+         "kata": "ذَوَاتَى",
+         "arti": "mempunyai"
+      }
+   ],
+   "isim ر": [
+      {
+         "kata": "رَأْسٌ",
+         "arti": "kepala"
+      },
+      {
+         "kata": "اَرْبَعٌ",
+         "arti": "empat"
+      },
+      {
+         "kata": "رَؤُفٌ",
+         "arti": "maha halus"
+      },
+      {
+         "kata": "رِجْسٌ",
+         "arti": "perbuatan keji,buruk"
+      },
+      {
+         "kata": "مَرْجِعٌ",
+         "arti": "tempat kembali"
+      },
+      {
+         "kata": "رَجُلٌ",
+         "arti": "Laki-laki"
+      },
+      {
+         "kata": "رِجْلٌ",
+         "arti": "kaki"
+      },
+      {
+         "kata": "رَحْمَنٌ",
+         "arti": "maha penyayang"
+      },
+      {
+         "kata": "اَرْحَمٌ",
+         "arti": "rahim"
+      },
+      {
+         "kata": "رِسَالَةٌ",
+         "arti": "risalah,ajaran"
+      },
+      {
+         "kata": "مُرْسَلَوْنَ",
+         "arti": "para utusan"
+      },
+      {
+         "kata": "رِضْوَانٌ",
+         "arti": "keridhaan"
+      },
+      {
+         "kata": "رِيْحٌ",
+         "arti": "angin"
+      },
+      {
+         "kata": "رَيْبٌ",
+         "arti": "keraguan"
+      }
+   ],
+   "isim ز": [
+      {
+         "kata": "زَوْجٌ",
+         "arti": "pasangan(suami)"
+      },
+      {
+         "kata": "زِيْعٌ",
+         "arti": "perhiasan"
+      }
+   ],
+   "isim س": [
+      {
+         "kata": "سُبْحَانَ",
+         "arti": "maha suci"
+      },
+      {
+         "kata": "سَبْعٌ",
+         "arti": "tujuh"
+      },
+      {
+         "kata": "سَاجِدُوْنَ",
+         "arti": "Orang-orang yang bersujud"
+      },
+      {
+         "kata": "سُحَّدًا",
+         "arti": "bersujud"
+      },
+      {
+         "kata": "سَاحِرٌ",
+         "arti": "yang menyihir"
+      },
+      {
+         "kata": "سِرٌّ",
+         "arti": "rahasia"
+      },
+      {
+         "kata": "سَرِيْعٌ",
+         "arti": "sangat cepat"
+      },
+      {
+         "kata": "مُسْرِفُوْنَ",
+         "arti": "Orang-orang yang berlebihan"
+      },
+      {
+         "kata": "مَسْكَنٌ",
+         "arti": "tempat tinggal"
+      },
+      {
+         "kata": "سُلْطَانٌ",
+         "arti": "bukti yang nyata,hujjah"
+      },
+      {
+         "kata": "سَمْعٌ",
+         "arti": "pendengaran"
+      },
+      {
+         "kata": "سَمِيْعٌ",
+         "arti": "yang maha mendengar"
+      },
+      {
+         "kata": "مُسَمَّى",
+         "arti": "yang dinamakan"
+      },
+      {
+         "kata": "اِسْمٌ",
+         "arti": "nama"
+      },
+      {
+         "kata": "سِنِيْنَ",
+         "arti": "tuhan"
+      },
+      {
+         "kata": "سَوْءٌ",
+         "arti": "kejahata,bahaya"
+      },
+      {
+         "kata": "سَاعَةٌ",
+         "arti": "kiamat"
+      },
+      {
+         "kata": "سَوَاءٌ",
+         "arti": "sama saja,lurus"
+      }
+   ],
+   "isim ش": [
+      {
+         "kata": "شَجَرٌ",
+         "arti": "pohon"
+      },
+      {
+         "kata": "شَدِيْدٌ",
+         "arti": "amat berat,sangat keras"
+      },
+      {
+         "kata": "أَشَدُّ",
+         "arti": "lebih keras"
+      },
+      {
+         "kata": "شَرَابٌ",
+         "arti": "minuman"
+      },
+      {
+         "kata": "شَرٌّ",
+         "arti": "keburukan"
+      },
+      {
+         "kata": "شِرْكٌ",
+         "arti": "kemusyrikan,sekutu"
+      },
+      {
+         "kata": "شَفِيْعٌ",
+         "arti": "pemberi syafaat"
+      },
+      {
+         "kata": "شَكٌ",
+         "arti": "keraguan"
+      },
+      {
+         "kata": "شَمْسٌ",
+         "arti": "matahaari"
+      },
+      {
+         "kata": "شِمَالٌ",
+         "arti": "kiri"
+      },
+      {
+         "kata": "شَهِيْدٌ",
+         "arti": "saksi,penolong"
+      },
+      {
+         "kata": "شَهَادَةٌ",
+         "arti": "kesaksian"
+      },
+      {
+         "kata": "شَهْرُ",
+         "arti": "bulan"
+      }
+   ],
+   "ism ص": [
+      {
+         "kata": "صَدْرٌ",
+         "arti": "dada"
+      },
+      {
+         "kata": "صِدْقٌ",
+         "arti": "kebenaran"
+      },
+      {
+         "kata": "صَادِقُوْنَ",
+         "arti": "Orang-orang yang benar"
+      },
+      {
+         "kata": "مُصَدِّقٌ",
+         "arti": "orang yang membenarkan"
+      },
+      {
+         "kata": "صِرَاطٌ",
+         "arti": "jalan"
+      },
+      {
+         "kata": "صُمٌّ",
+         "arti": "orang yang tuli"
+      },
+      {
+         "kata": "صُوْرٌ",
+         "arti": "sangkakala"
+      },
+      {
+         "kata": "صَيْحَةٌ",
+         "arti": "suara keras"
+      },
+      {
+         "kata": "مَصِيْرٌ",
+         "arti": "tempat kembali"
+      }
+   ],
+   "Fiil 3 digit": [
+      {
+         "kata": "أَتَى",
+         "arti": "datang"
+      },
+      {
+         "kata": "أَخَذَ",
+         "arti": "mengambil"
+      },
+      {
+         "kata": "جَعَلَ",
+         "arti": "menjadikan"
+      },
+      {
+         "kata": "جَاءَ",
+         "arti": "datang"
+      },
+      {
+         "kata": "خَرَجَ",
+         "arti": "keluar"
+      },
+      {
+         "kata": "خَلَقَ",
+         "arti": "menciptakan,membuat"
+      },
+      {
+         "kata": "ذَكَرَ",
+         "arti": "mengingat"
+      },
+      {
+         "kata": "رَأَى",
+         "arti": "melihat,menyebut"
+      },
+      {
+         "kata": "أَرْسَلَ",
+         "arti": "mengutus"
+      },
+      {
+         "kata": "رَادَ",
+         "arti": "menginginkan,mencari"
+      },
+      {
+         "kata": "سَأَلَ",
+         "arti": "meminta,bertanya"
+      },
+      {
+         "kata": "سَمِعَ",
+         "arti": "mendengar"
+      },
+      {
+         "kata": "شَاءَ",
+         "arti": "menghendaki"
+      },
+      {
+         "kata": "ضَلَّ",
+         "arti": "sesat"
+      },
+      {
+         "kata": "عَلِمَ",
+         "arti": "mengetahui"
+      },
+      {
+         "kata": "غَفَرَ",
+         "arti": "mengampuni"
+      },
+      {
+         "kata": "قَتَلَ",
+         "arti": "membunuh"
+      },
+      {
+         "kata": "قَامَ",
+         "arti": "berdiri"
+      },
+      {
+         "kata": "كَذَبَ",
+         "arti": "berdusta,bohong"
+      },
+      {
+         "kata": "لَقِيَ",
+         "arti": "bertemu,berjumpa,melempar"
+      },
+      {
+         "kata": "نَزَلَ",
+         "arti": "turun"
+      },
+      {
+         "kata": "نَظَرَ",
+         "arti": "memandang,melihat"
+      },
+      {
+         "kata": "وَقَى",
+         "arti": "bertakwa,memelihara"
+      },
+      {
+         "kata": "وَلِيَ",
+         "arti": "melindungi,berpaling,menguasai"
+      },
+      {
+         "kata": "قَالَ",
+         "arti": "berkata"
       }
    ]
 }
